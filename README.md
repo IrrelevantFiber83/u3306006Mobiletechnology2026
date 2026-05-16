@@ -1,5 +1,7 @@
 # u3306006Mobiletechnology-Week2
 
+**assingment 2 is under the name u3306006mobtecAssignment2.zip (https://github.com/IrrelevantFiber83/u3306006Mobiletechnology2026/blob/main/u3306006mobtecAssignment2.zip)
+
 u3306006 - Mobile Technologies (11492)
 
 The file name might be different/unrelated to the task but the folder name details which week the work was done in. This was due to the way Andriod Studio exports its projects, only naming the exported zip file rather than the project name (which was usually unzipped and run from the previous week). 
