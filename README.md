@@ -1,6 +1,6 @@
 # u3306006Mobiletechnology-Week2
 
-**assingment 2 is under the name u3306006mobtecAssignment2.zip (https://github.com/IrrelevantFiber83/u3306006Mobiletechnology2026/blob/main/u3306006mobtecAssignment2.zip)
+**Assignment 2 is under the name u3306006mobtecAssignment2.zip (https://github.com/IrrelevantFiber83/u3306006Mobiletechnology2026/blob/main/u3306006mobtecAssignment2.zip)
 
 u3306006 - Mobile Technologies (11492)
 
